@@ -2,7 +2,7 @@
 
 Here we afford the code to reproduce the experimental results on Market-1501 dataset for our paper *"Positive Pair Distillation Considered Harmful: Continual Meta Metric Learning for Lifelong Object Re-Identification".*
 
-[Kai Wang](https://scholar.google.com/citations?user=j14vd0wAAAAJ), [Chenshen Wu](https://scholar.google.com/citations?user=FO7GyVwAAAAJ&hl=en), [Andy Bagdanov](https://scholar.google.com/citations?user=_Fk4YUcAAAAJ&hl=en), [Xialei Liu](https://mmcheng.net/xliu/), [Shiqi Yang](https://www.shiqiyang.xyz/), Shangling Jui and [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en)
+[Kai Wang](https://scholar.google.com/citations?user=j14vd0wAAAAJ), [Chenshen Wu](https://scholar.google.com/citations?user=FO7GyVwAAAAJ&hl=en), [Andy Bagdanov](https://scholar.google.com/citations?user=_Fk4YUcAAAAJ&hl=en), [Xialei Liu* (corresponding)](https://mmcheng.net/xliu/), [Shiqi Yang](https://www.shiqiyang.xyz/), Shangling Jui and [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en)
 
 ## download dataset
 
