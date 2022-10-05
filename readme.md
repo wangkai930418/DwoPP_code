@@ -1,4 +1,4 @@
-# **Positive Pair Distillation Considered Harmful: Continual Meta Metric Learning for Lifelong Object Re-Identification (BMVC 2022)**
+# **[Positive Pair Distillation Considered Harmful: Continual Meta Metric Learning for Lifelong Object Re-Identification (BMVC 2022)](https://arxiv.org/abs/2210.01600)**
 
 Here we afford the code to reproduce the experimental results on Market-1501 dataset for our paper *"Positive Pair Distillation Considered Harmful: Continual Meta Metric Learning for Lifelong Object Re-Identification".*
 
